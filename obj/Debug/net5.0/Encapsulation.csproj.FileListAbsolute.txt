@@ -1,0 +1,16 @@
+D:\Durant\Projects\Encapsulation\bin\Debug\net5.0\Encapsulation.exe
+D:\Durant\Projects\Encapsulation\bin\Debug\net5.0\Encapsulation.deps.json
+D:\Durant\Projects\Encapsulation\bin\Debug\net5.0\Encapsulation.runtimeconfig.json
+D:\Durant\Projects\Encapsulation\bin\Debug\net5.0\Encapsulation.runtimeconfig.dev.json
+D:\Durant\Projects\Encapsulation\bin\Debug\net5.0\Encapsulation.dll
+D:\Durant\Projects\Encapsulation\bin\Debug\net5.0\ref\Encapsulation.dll
+D:\Durant\Projects\Encapsulation\bin\Debug\net5.0\Encapsulation.pdb
+D:\Durant\Projects\Encapsulation\obj\Debug\net5.0\Encapsulation.csprojAssemblyReference.cache
+D:\Durant\Projects\Encapsulation\obj\Debug\net5.0\Encapsulation.GeneratedMSBuildEditorConfig.editorconfig
+D:\Durant\Projects\Encapsulation\obj\Debug\net5.0\Encapsulation.AssemblyInfoInputs.cache
+D:\Durant\Projects\Encapsulation\obj\Debug\net5.0\Encapsulation.AssemblyInfo.cs
+D:\Durant\Projects\Encapsulation\obj\Debug\net5.0\Encapsulation.csproj.CoreCompileInputs.cache
+D:\Durant\Projects\Encapsulation\obj\Debug\net5.0\Encapsulation.dll
+D:\Durant\Projects\Encapsulation\obj\Debug\net5.0\ref\Encapsulation.dll
+D:\Durant\Projects\Encapsulation\obj\Debug\net5.0\Encapsulation.pdb
+D:\Durant\Projects\Encapsulation\obj\Debug\net5.0\Encapsulation.genruntimeconfig.cache
