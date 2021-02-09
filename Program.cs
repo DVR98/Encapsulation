@@ -95,7 +95,7 @@ namespace Encapsulation
         public class Accessibility {
 
             //Initialization code and error checking omitted
-            private string[] _myField;
+            private string[] _myField = new string[1];
 
             public string MyProperty {
                 get { 
